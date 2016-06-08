@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:09.414880
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:06
 #+TITLE: 大般涅槃摩耶夫人品經
 #+PROPERTY: CBETA_ID W01n0015a
 #+PROPERTY: ID KR6v0018
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 題解¶
 整理者　李際寧¶
 ¶
 
@@ -94,7 +94,7 @@
 
 <pb:KR6v0018_W_001-0376a>¶
 
-錄文一¶
+* 錄文一¶
 ¶
 
  大般涅槃摩耶夫人品經¶
